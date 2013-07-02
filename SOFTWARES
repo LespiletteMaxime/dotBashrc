@@ -4,3 +4,12 @@
 	- milkmaid auth start
 	- suivre le lien
 	- milkmaid auth finish
+
+- Google calendar CLI : [https://github.com/insanum/gcalcli] Gestion de l'agenda en cli
+	- Dep : python-gflags python-dateutil 
+	- Dep : https://code.google.com/p/google-api-python-client/ python-pip
+		- easy_install --upgrade google-api-python-client
+	- Créer le fichier ~/.gcalcrc
+	- avec user : emailcalendar
+	-	 pw : pass appli
+	

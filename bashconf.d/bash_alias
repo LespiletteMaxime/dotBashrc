@@ -6,3 +6,6 @@ alias mkd="milkmaid task delete "
 
 #Std Bash alias
 alias l="ls -l"
+
+#Gcalcli
+alias done="~/bin/gcalcli/gcalcli add " 
