@@ -1,1 +1,6 @@
 - Milkmaid : [http://rubydoc.info/gems/milkmaid/0.3.0/frames] gestion de RMTM en cli
+	- Configuration 
+	- gem install milkmaid
+	- milkmaid auth start
+	- suivre le lien
+	- milkmaid auth finish
