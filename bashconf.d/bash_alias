@@ -3,3 +3,6 @@ alias mkl="milkmaid task -l1"
 alias mka="milkmaid task add "
 alias mkc="milkmaid task complete "
 alias mkd="milkmaid task delete "
+
+#Std Bash alias
+alias l="ls -l"
